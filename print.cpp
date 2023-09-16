@@ -4,7 +4,9 @@ using namespace std;
 int main()
 {
     // To Display Message
-    cout<<"welcome to c++";
+    cout<<"Welcome to C++";
+    \cout<<"We are ITM";
+
     
     return 0;
 
