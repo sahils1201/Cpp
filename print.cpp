@@ -5,9 +5,7 @@ int main()
 {
     // To Display Message
     cout<<"Welcome to C++";
-    \cout<<"We are ITM";
-
-    
+    cout<<"We are ITM"; 
     return 0;
 
 }
